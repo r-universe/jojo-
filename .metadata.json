@@ -1,0 +1,10 @@
+[
+  {
+    "package": "mipfp",
+    "oncran": true
+  },
+  {
+    "package": "quarrint",
+    "oncran": true
+  }
+]
