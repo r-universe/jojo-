@@ -1,17 +1,12 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "mipfp"]
 	path = mipfp
 	url = https://github.com/jojo-/mipfp
-	shallow = true
 	subdir = mipfp
-	registered = true
 [submodule "quarrint"]
 	path = quarrint
 	url = https://github.com/jojo-/quarrint
-	shallow = true
 	subdir = quarrint
-	registered = true
